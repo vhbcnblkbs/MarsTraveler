@@ -1,0 +1,13 @@
+C:\Users\berkanm\source\repos\TravelerInMars\TravelerInMars\obj\Debug\TravelerInMars.csprojResolveAssemblyReference.cache
+C:\Users\berkanm\source\repos\TravelerInMars\TravelerInMars\obj\Debug\TravelerInMars.csproj.CoreCompileInputs.cache
+C:\Users\berkanm\source\repos\TravelerInMars\TravelerInMars\bin\Debug\TravelerInMars.exe.config
+C:\Users\berkanm\source\repos\TravelerInMars\TravelerInMars\bin\Debug\TravelerInMars.exe
+C:\Users\berkanm\source\repos\TravelerInMars\TravelerInMars\bin\Debug\TravelerInMars.pdb
+C:\Users\berkanm\source\repos\TravelerInMars\TravelerInMars\obj\Debug\TravelerInMars.exe
+C:\Users\berkanm\source\repos\TravelerInMars\TravelerInMars\obj\Debug\TravelerInMars.pdb
+C:\Users\VCTR\Documents\Visual Studio 2013\Projects\TravelerInMars\TravelerInMars\bin\Debug\TravelerInMars.exe.config
+C:\Users\VCTR\Documents\Visual Studio 2013\Projects\TravelerInMars\TravelerInMars\obj\Debug\TravelerInMars.exe
+C:\Users\VCTR\Documents\Visual Studio 2013\Projects\TravelerInMars\TravelerInMars\obj\Debug\TravelerInMars.pdb
+C:\Users\VCTR\Documents\Visual Studio 2013\Projects\TravelerInMars\TravelerInMars\bin\Debug\TravelerInMars.exe
+C:\Users\VCTR\Documents\Visual Studio 2013\Projects\TravelerInMars\TravelerInMars\bin\Debug\TravelerInMars.pdb
+C:\Users\VCTR\Documents\Visual Studio 2013\Projects\TravelerInMars\TravelerInMars\obj\Debug\TravelerInMars.csprojResolveAssemblyReference.cache
